@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aldho and I'm a Web Developer</h2>
+<marquee><h2 align="center">Hi 👋! My name is Aldho and I'm a Web Developer</h2></marquee>
 
 ###
 
